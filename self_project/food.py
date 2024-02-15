@@ -55,12 +55,12 @@ driver = webdriver.Chrome(options=options)
 driver.get(url)
 time.sleep(1)
 
-email = '01080338529'
+email = '#####'
 input_id = driver.find_element(By.CSS_SELECTOR, "#loginForm > div > div:nth-child(1) > div > label > input")
 input_id.clear()
 input_id.send_keys(email)
 
-password = 'kim@80338529'
+password = '####'
 input_pw = driver.find_element(By.CSS_SELECTOR, '#loginForm > div > div:nth-child(2) > div > label > input')
 input_pw.clear()
 input_pw.send_keys(password)
