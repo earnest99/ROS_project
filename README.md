@@ -49,7 +49,7 @@
 
 
 -------------------------------------
-## 시연영상(주소)
+## 시연영상
 [![Watch the video](https://img.youtube.com/vi/MckX-aLuudc/0.jpg)](https://youtu.be/MckX-aLuudc?si=ExCvcIqMss6iiUz-)
 
 
